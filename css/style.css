@@ -1173,7 +1173,7 @@ img {
     .header__wrapper {
         padding-top: 28px;
     }
-    
+
     .header__burger {
         display: block;
     }
@@ -1249,7 +1249,7 @@ img {
         font-size: 14px;
     }
 
-    .search-form__field{
+    .search-form__field {
         margin-right: 0;
         width: 100%;
         padding-bottom: 12px;
@@ -1284,9 +1284,11 @@ img {
     .benefits__card-desc {
         margin-bottom: 20px;
     }
+
     .places {
         margin-bottom: 76px;
     }
+
     .places__title {
         margin-bottom: 10px;
     }
@@ -1294,9 +1296,11 @@ img {
     .places__view-all {
         margin-bottom: 25px;
     }
+
     .places__caption {
         margin-bottom: 0;
     }
+
     .section-title::after {
         width: 78px;
     }
@@ -1314,7 +1318,7 @@ img {
     .tour__pic {
         margin-bottom: 12px;
     }
-    
+
     .tour__pic_mob-first {
         grid-row-start: -1;
     }
@@ -1326,6 +1330,7 @@ img {
     .tours {
         margin-bottom: 76px;
     }
+
     .top {
         margin-bottom: 76px;
     }
@@ -1340,7 +1345,6 @@ img {
 
     .top__card-stats {
         max-width: 386px;
-        ;
     }
 
     .footer__logo {
