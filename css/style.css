@@ -640,7 +640,7 @@ img {
 
 .intro {
     min-height: 100vh;
-    background: url(../img/hero.jpg) no-repeat center;
+    background: url(../img/hero-min.jpg) no-repeat center;
     background-size: cover;
     padding-top: 263px;
     padding-bottom: 250px;
@@ -761,7 +761,7 @@ img {
 }
 
 .benefits__card {
-    grid-column-gap: span 1;
+    column-gap: span 1;
     margin-bottom: 112px;
 }
 
@@ -985,13 +985,12 @@ img {
     bottom: 0;
     left: 0;
     width: 100%;
-    background-color: rgba(21, 24, 36, 0.6);
     color: #fff;
     display: flex;
     justify-content: flex-end;
     flex-wrap: wrap;
     align-items: center;
-    padding: 16px 25px;
+    padding: 15px 25px;
     font-weight: 500;
     font-size: 18px;
     line-height: 24px;
